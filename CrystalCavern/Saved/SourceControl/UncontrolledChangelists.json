@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Maps/NewMap.umap",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Maps/NewMap_BuiltData.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Blueprints/BP_Crystal.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Blueprints/BP_GameMode.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Blueprints/BP_Restart.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Blueprints/Actors/BP_Restart.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Blueprints/Actors/BP_Crystal.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Materials/M_crystal.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Blueprints/Actors/BP_Projectile.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Meshes/Cannon.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Meshes/Cannon_Base.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Blueprints/BP_Canon.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Blueprints/BP_.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Blueprints/BP_Win.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Libraries/CC_Macro.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Maps/level2.umap",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Maps/level1.umap"
+			]
+		}
+	]
+}
