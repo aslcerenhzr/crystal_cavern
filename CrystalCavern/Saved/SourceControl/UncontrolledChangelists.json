@@ -5,11 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GithubRepos/crystal_cavern/CrystalCavern/Content/Maps/NewMap.umap",
-				"D:/GithubRepos/crystal_cavern/CrystalCavern/Content/Maps/level1.umap",
-				"D:/GithubRepos/crystal_cavern/CrystalCavern/Content/Maps/_GENERATED/Orhun/Cylinder_D681A001.uasset",
-				"D:/GithubRepos/crystal_cavern/CrystalCavern/Content/Maps/level2.umap",
-				"D:/GithubRepos/crystal_cavern/CrystalCavern/Content/Blueprints/BP_Win.uasset",
 				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Maps/NewMap.umap",
 				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Maps/NewMap_BuiltData.uasset",
@@ -24,11 +19,18 @@
 				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Meshes/Cannon.uasset",
 				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Meshes/Cannon_Base.uasset",
 				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Blueprints/BP_Canon.uasset",
-				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Blueprints/BP_.uasset",
 				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Blueprints/BP_Win.uasset",
 				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Libraries/CC_Macro.uasset",
 				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Maps/level2.umap",
-				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Maps/level1.umap"
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Maps/level1.umap",
+				"C:/Users/ceren/OneDrive/Documents/GitHub/crystal_cavern/CrystalCavern/Content/Maps/level2.umap",
+				"C:/Users/ceren/OneDrive/Documents/GitHub/crystal_cavern/CrystalCavern/Content/Blueprints/BP_Win.uasset",
+				"D:/GithubRepos/crystal_cavern/CrystalCavern/Content/Maps/NewMap.umap",
+				"D:/GithubRepos/crystal_cavern/CrystalCavern/Content/Maps/level1.umap",
+				"D:/GithubRepos/crystal_cavern/CrystalCavern/Content/Maps/_GENERATED/Orhun/Cylinder_D681A001.uasset",
+				"D:/GithubRepos/crystal_cavern/CrystalCavern/Content/Maps/level2.umap",
+				"D:/GithubRepos/crystal_cavern/CrystalCavern/Content/Blueprints/BP_Win.uasset",
+				"C:/Users/ceren/OneDrive/Documents/Unreal Projects/CrystalCavern/Content/Blueprints/BP_.uasset"
 			]
 		}
 	]
